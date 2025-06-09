@@ -18,12 +18,6 @@ This project is a video chat application built using Node.js, Express, Socket.io
 - Real-time video and audio communication
 - Simple and intuitive user interface
 
-## Live Demo
-
-You can try out the live version of this application at:
-
-[https://audio-video-chat.onrender.com](https://audio-video-chat.onrender.com)
-
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
