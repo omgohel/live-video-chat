@@ -67,4 +67,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-If you have any questions or feedback, please open an issue in this repository or connect with me over email: sohail.bnh@gmail.com.
+If you have any questions or feedback, please open an issue in this repository or connect with me over email: omgohel1111@gmail.com.
